@@ -1,0 +1,883 @@
+{
+  "entities": {
+    "definicion": {
+      "automatically_extensible": true, 
+      "data": [], 
+      "use_synonyms": true
+    }, 
+    "espaniol": {
+      "automatically_extensible": true, 
+      "data": [], 
+      "use_synonyms": true
+    }, 
+    "grupo": {
+      "automatically_extensible": true, 
+      "data": [], 
+      "use_synonyms": true
+    }, 
+    "imagen": {
+      "automatically_extensible": true, 
+      "data": [], 
+      "use_synonyms": true
+    }, 
+    "plantas": {
+      "automatically_extensible": true, 
+      "data": [
+        {
+          "synonyms": [
+            " abies religiosa", 
+            " Abies Religiosa", 
+            " abies Religiosa"
+          ], 
+          "value": "Abies_religiosa"
+        }, 
+        {
+          "synonyms": [
+            " acuaticas", 
+            " Acuatica", 
+            " acuatica", 
+            "acu\u00e1ticas", 
+            " Acu\u00e1tica", 
+            " acu\u00e1tica"
+          ], 
+          "value": "Acuaticas"
+        }, 
+        {
+          "synonyms": [
+            " Alpinia Purpurata", 
+            " alpinia purpurata", 
+            " Alpinia purpurata"
+          ], 
+          "value": "Alpinia_Purpurata"
+        }, 
+        {
+          "synonyms": [
+            " arboles", 
+            " Arbol", 
+            " arbol", 
+            "  \u00c1rbol", 
+            " \u00e1rbol"
+          ], 
+          "value": "Arboles"
+        }, 
+        {
+          "synonyms": [
+            " aro comun", 
+            " Aro Comun", 
+            " Aro comun"
+          ], 
+          "value": "Aro_Comun"
+        }, 
+        {
+          "synonyms": [
+            " buganvilla", 
+            "Buganvillas", 
+            " buganvillas"
+          ], 
+          "value": "Buganvilla"
+        }, 
+        {
+          "synonyms": [
+            " Caladium Bicolor", 
+            " caladium bicolor", 
+            " Caladium bicolor"
+          ], 
+          "value": "Caladium_Bicolor"
+        }, 
+        {
+          "synonyms": [
+            " calta amarilla", 
+            " Calta Amarilla", 
+            " Calta amarilla"
+          ], 
+          "value": "Calta_Amarilla"
+        }, 
+        {
+          "synonyms": [
+            " campanillas", 
+            " campanilla", 
+            " Campanilla"
+          ], 
+          "value": "Campanillas"
+        }, 
+        {
+          "synonyms": [
+            " canna indica", 
+            " Canna indica"
+          ], 
+          "value": "Canna_Indica"
+        }, 
+        {
+          "synonyms": [
+            " caryota mitis", 
+            " Caryota mitis"
+          ], 
+          "value": "Caryota_Mitis"
+        }, 
+        {
+          "synonyms": [
+            " chamaecyparis pisifera"
+          ], 
+          "value": "Chamaecyparis_Pisifera"
+        }, 
+        {
+          "synonyms": [
+            " chamaedorea elegans"
+          ], 
+          "value": "Chamaedorea_Elegans"
+        }, 
+        {
+          "synonyms": [
+            " citrus medica"
+          ], 
+          "value": "Citrus_Medica"
+        }, 
+        {
+          "synonyms": [
+            " dahlia hybrida"
+          ], 
+          "value": "Dahlia_Hybrida"
+        }, 
+        {
+          "synonyms": [
+            " delonix regia"
+          ], 
+          "value": "Delonix_Regia"
+        }, 
+        {
+          "synonyms": [
+            " enamorada del muro"
+          ], 
+          "value": "Enamorada_del_muro"
+        }, 
+        {
+          "synonyms": [
+            " flor de loto"
+          ], 
+          "value": "Flor_de_Loto"
+        }, 
+        {
+          "synonyms": [
+            " hiedra"
+          ], 
+          "value": "Hiedra"
+        }, 
+        {
+          "synonyms": [
+            " jacinto agua"
+          ], 
+          "value": "Jacinto_Agua"
+        }, 
+        {
+          "synonyms": [
+            " ligustrum lucidum"
+          ], 
+          "value": "Ligustrum_Lucidum"
+        }, 
+        {
+          "synonyms": [
+            " lilium spp"
+          ], 
+          "value": "Lilium_Spp"
+        }, 
+        {
+          "synonyms": [
+            " nenufar blanco"
+          ], 
+          "value": "Nenufar_Blanco"
+        }, 
+        {
+          "synonyms": [
+            " palmeras", 
+            " palmera", 
+            " Palmera"
+          ], 
+          "value": "Palmeras"
+        }, 
+        {
+          "synonyms": [
+            " pasionaria", 
+            " Pasionarias", 
+            " pasionarias"
+          ], 
+          "value": "Pasionaria"
+        }, 
+        {
+          "synonyms": [
+            " plantas", 
+            " planta", 
+            " Planta", 
+            " plantas ornamentales"
+          ], 
+          "value": "Plantas_Ornamentales"
+        }, 
+        {
+          "synonyms": [
+            " trepadoras", 
+            " trepadora", 
+            " Trepadora"
+          ], 
+          "value": "Trepadoras"
+        }, 
+        {
+          "synonyms": [
+            " tuberosas", 
+            " tuberosa", 
+            " Tuberosa"
+          ], 
+          "value": "Tuberosas"
+        }
+      ], 
+      "use_synonyms": true
+    }, 
+    "saludo": {
+      "automatically_extensible": true, 
+      "data": [], 
+      "use_synonyms": true
+    }, 
+    "tipo": {
+      "automatically_extensible": true, 
+      "data": [], 
+      "use_synonyms": true
+    }
+  }, 
+  "intents": {
+    "definicion": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Acuaticas"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Aro_Comun"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Calta_Amarilla"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfQu\u00e9 son las plantas "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfQu\u00e9 son "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "define "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfQu\u00e9 son los "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "definici\u00f3n de "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }
+          ]
+        }
+      ]
+    }, 
+    "grupo": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "text": "\u00bfQu\u00e9 grupo pertenece las "
+            }, 
+            {
+              "entity": "grupo", 
+              "slot_name": "grupo", 
+              "text": "Acuaticas"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "en que grupo pertenece las "
+            }, 
+            {
+              "entity": "grupo", 
+              "slot_name": "grupo", 
+              "text": "Acuaticas"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "en que grupo pertenece las "
+            }, 
+            {
+              "entity": "grupo", 
+              "slot_name": "grupo", 
+              "text": "Palmeras"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfQu\u00e9 tipo de planta es "
+            }, 
+            {
+              "entity": "grupo", 
+              "slot_name": "grupo", 
+              "text": "Acuaticas"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfQu\u00e9 tipo de planta son los "
+            }, 
+            {
+              "entity": "grupo", 
+              "slot_name": "grupo", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }
+      ]
+    }, 
+    "imagen": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "text": "\u00bfCual es la imagen de "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "sabes la imagen de "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "imagen de "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfCual es la imagen de plantas "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "sabes la imagen de plantas "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "imagen de plantas "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Imagenes de "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Imagen de "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Imagen de "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Caladium_Bicolor"
+            }
+          ]
+        }
+      ]
+    }, 
+    "saludo": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "entity": "saludo", 
+              "slot_name": "saludo", 
+              "text": "Hola"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "entity": "saludo", 
+              "slot_name": "saludo", 
+              "text": "Hola"
+            }, 
+            {
+              "text": " como estas"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "entity": "saludo", 
+              "slot_name": "saludo", 
+              "text": "Hola"
+            }, 
+            {
+              "text": " que tal"
+            }
+          ]
+        }
+      ]
+    }, 
+    "tipo": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "text": "\u00bfQu\u00e9  tipos de "
+            }, 
+            {
+              "entity": "tipo", 
+              "slot_name": "tipo", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": " conoces?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfCuantas "
+            }, 
+            {
+              "entity": "tipo", 
+              "slot_name": "tipo", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": " conoces?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfQu\u00e9  tipos de plantas "
+            }, 
+            {
+              "entity": "tipo", 
+              "slot_name": "tipo", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": " conoces?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfCuantas plantas "
+            }, 
+            {
+              "entity": "tipo", 
+              "slot_name": "tipo", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": " conoces?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfQu\u00e9 plantas "
+            }, 
+            {
+              "entity": "tipo", 
+              "slot_name": "tipo", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": " conoces?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "tipos de "
+            }, 
+            {
+              "entity": "tipo", 
+              "slot_name": "tipo", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "tipos de "
+            }, 
+            {
+              "entity": "tipo", 
+              "slot_name": "tipo", 
+              "text": "Plantas_Ornamentales"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "clasificaci\u00f3n de las plantas "
+            }, 
+            {
+              "entity": "tipo", 
+              "slot_name": "tipo", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfC\u00f3mo se clasifican las "
+            }, 
+            {
+              "entity": "tipo", 
+              "slot_name": "tipo", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfcu\u00e1l es la clasificaci\u00f3n de las "
+            }, 
+            {
+              "entity": "tipo", 
+              "slot_name": "tipo", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Tipos de "
+            }, 
+            {
+              "entity": "tipo", 
+              "slot_name": "tipo", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Tipos de "
+            }, 
+            {
+              "entity": "tipo", 
+              "slot_name": "tipo", 
+              "text": "Palmeras"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Tipo de "
+            }, 
+            {
+              "entity": "tipo", 
+              "slot_name": "tipo", 
+              "text": "Palmeras"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfCu\u00e1ntos tipos de "
+            }, 
+            {
+              "entity": "tipo", 
+              "slot_name": "tipo", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": " existen?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "clasificaci\u00f3n de "
+            }, 
+            {
+              "entity": "tipo", 
+              "slot_name": "tipo", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "de que "
+            }, 
+            {
+              "entity": "tipo", 
+              "slot_name": "tipo", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": " sabes"
+            }
+          ]
+        }
+      ]
+    }, 
+    "traduccion": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "text": "\u00bfComo se dice "
+            }, 
+            {
+              "entity": "espaniol", 
+              "slot_name": "espaniol", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": " en quichua?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "traduce "
+            }, 
+            {
+              "entity": "espaniol", 
+              "slot_name": "espaniol", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "traduce "
+            }, 
+            {
+              "entity": "espaniol", 
+              "slot_name": "espaniol", 
+              "text": "Plantas_Ornamentales"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "puedes traducir "
+            }, 
+            {
+              "entity": "espaniol", 
+              "slot_name": "espaniol", 
+              "text": "Plantas_Ornamentales"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "traduceme "
+            }, 
+            {
+              "entity": "espaniol", 
+              "slot_name": "espaniol", 
+              "text": "Plantas_Ornamentales"
+            }
+          ]
+        }
+      ]
+    }
+  }, 
+  "language": "es"
+}

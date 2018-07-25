@@ -1,0 +1,28 @@
+Abies_religiosa, abies religiosa, Abies Religiosa, abies Religiosa
+Acuaticas, acuaticas, Acuatica, acuatica,acuáticas, Acuática, acuática
+Alpinia_Purpurata, Alpinia Purpurata, alpinia purpurata, Alpinia purpurata
+Arboles, arboles, Arbol, arbol,  Árbol, árbol
+Aro_Comun, aro comun, Aro Comun, Aro comun
+Buganvilla, buganvilla,Buganvillas, buganvillas
+Caladium_Bicolor, Caladium Bicolor, caladium bicolor, Caladium bicolor
+Calta_Amarilla, calta amarilla, Calta Amarilla, Calta amarilla
+Campanillas, campanillas, campanilla, Campanilla
+Canna_Indica, canna indica, Canna indica
+Caryota_Mitis, caryota mitis, Caryota mitis
+Chamaecyparis_Pisifera, chamaecyparis pisifera
+Chamaedorea_Elegans, chamaedorea elegans
+Citrus_Medica, citrus medica
+Dahlia_Hybrida, dahlia hybrida
+Delonix_Regia, delonix regia
+Enamorada_del_muro, enamorada del muro
+Flor_de_Loto, flor de loto
+Hiedra, hiedra
+Jacinto_Agua, jacinto agua
+Ligustrum_Lucidum, ligustrum lucidum
+Lilium_Spp, lilium spp
+Nenufar_Blanco, nenufar blanco
+Palmeras, palmeras, palmera, Palmera
+Pasionaria, pasionaria, Pasionarias, pasionarias
+Plantas_Ornamentales, plantas, planta, Planta, plantas ornamentales
+Trepadoras, trepadoras, trepadora, Trepadora
+Tuberosas, tuberosas, tuberosa, Tuberosa

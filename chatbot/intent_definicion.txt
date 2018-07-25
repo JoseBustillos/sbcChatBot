@@ -1,0 +1,10 @@
+[definicion:definicion](Arboles)
+[definicion:definicion](Acuaticas)
+[definicion:definicion](Aro_Comun)
+[definicion:definicion](Calta_Amarilla)
+[definicion:definicion](Plantas_Ornamentales)
+¿Qué son las plantas [definicion:definicion](Arboles)?
+¿Qué son [definicion:definicion](Arboles)?
+define [definicion:definicion](Arboles)
+¿Qué son los [definicion:definicion](Arboles)?
+definición de [definicion:definicion](Plantas_Ornamentales)

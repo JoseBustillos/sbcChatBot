@@ -1,0 +1,10 @@
+¿Cual es la imagen de [imagen:imagen](Arboles)?
+sabes la imagen de [imagen:imagen](Arboles)
+imagen de [imagen:imagen](Arboles)
+¿Cual es la imagen de plantas [imagen:imagen](Arboles)?
+sabes la imagen de plantas [imagen:imagen](Arboles)
+imagen de plantas [imagen:imagen](Arboles)
+Imagenes de [imagen:imagen](Arboles)
+Imagen de [imagen:imagen](Arboles)
+Imagen de [imagen:imagen](Caladium_Bicolor)
+
