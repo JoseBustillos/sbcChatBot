@@ -3,3 +3,6 @@ en que grupo pertenece las [grupo:grupo](Acuaticas)
 en que grupo pertenece las [grupo:grupo](Palmeras)
 ¿Qué tipo de planta es [grupo:grupo](Acuaticas)?
 ¿Qué tipo de planta son los [grupo:grupo](Arboles)?
+dame la clasificación de [grupo:grupo](Acuaticas)
+como se clasifican [grupo:grupo](Plantas_Ornamentales)
+Clasificación [grupo:grupo](Plantas_Ornamentales)

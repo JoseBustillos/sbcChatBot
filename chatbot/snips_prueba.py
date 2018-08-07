@@ -12,9 +12,11 @@ snips_nlu.load_resources("es")
 reload(sys)
 sys.setdefaultencoding('utf8')
 # lectura del archivo de entrenamiento para identificar la intencion
-with io.open("trained.json") as f:
+with io.open("dataset.json") as f:
     engine_dict = json.load(f)
-engine = SnipsNLUEngine.from_dict(engine_dict)
+engine = SnipsNLUEngine()
+engine.fit(engine_dict)
+
 
 
 # metodo para obtener el detalle de la pregunta realizada
@@ -31,7 +33,6 @@ sparql = SPARQLWrapper("http://localhost:8890/sparql/plantas1")
 def tipos(entidad):
     print('\n********     Tipos     ************')
     resultado = []
-    print('tipos: ' + entidad)
     # envio de la sentencia SPARQL a VIRTUOSO
     sparql.setQuery("""
     select ?tipos where{
@@ -40,13 +41,11 @@ def tipos(entidad):
     sparql.setReturnFormat(JSON)
     # extraccion del resultado en formato JSON
     results = sparql.query().convert()
-    print(results)
     # extraccion del resultado del formato JSON
     for valor in results['results']['bindings']:
         dato = (valor['tipos']['value'])
         resultado.append(dato.strip('example:'))
     # retorno del resultado para ser presentado
-    print(resultado)
     return (resultado)
 
 

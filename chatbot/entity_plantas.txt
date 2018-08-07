@@ -23,6 +23,6 @@ Lilium_Spp, lilium spp
 Nenufar_Blanco, nenufar blanco
 Palmeras, palmeras, palmera, Palmera
 Pasionaria, pasionaria, Pasionarias, pasionarias
-Plantas_Ornamentales, plantas, planta, Planta, plantas ornamentales
+Plantas_Ornamentales, "plantas ornamentales"
 Trepadoras, trepadoras, trepadora, Trepadora
 Tuberosas, tuberosas, tuberosa, Tuberosa

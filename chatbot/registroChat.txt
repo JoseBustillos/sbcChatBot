@@ -1,0 +1,136 @@
+
+531841887;José;Bustillos;02/08/18;17:22:28;Que son Plantas_Ornamentales;Por el momento conosco 5 plantas:
+ Acuaticas, Arboles, Palmeras, Trepadoras  y Tuberosas
+531841887;José;Bustillos;02/08/18;17:22:46;Traduce
+531841887;José;Bustillos;02/08/18;17:23:18;Plantas_Ornamentales;[u'se cultiva y se comercializa con prop\xf3sitos decorativos por sus caracter\xedsticas est\xe9ticas, como las flores, hojas, perfume, la peculiaridad de su follaje, frutos o tallos en jardines y dise\xf1os paisaj\xedsticos, como planta de interior o para flor cortada']
+531841887;José;Bustillos;02/08/18;17:23:25;Traduce;Yura ornamentales
+531841887;José;Bustillos;02/08/18;17:23:51;Clasificación
+531841887;José;Bustillos;02/08/18;17:24:40;Como se clasifican
+531841887;José;Bustillos;02/08/18;17:24:48;Plantas_Ornamentales;[u'se cultiva y se comercializa con prop\xf3sitos decorativos por sus caracter\xedsticas est\xe9ticas, como las flores, hojas, perfume, la peculiaridad de su follaje, frutos o tallos en jardines y dise\xf1os paisaj\xedsticos, como planta de interior o para flor cortada']
+531841887;José;Bustillos;02/08/18;17:24:56;Como se clasifican
+531841887;José;Bustillos;02/08/18;17:25:20;Plantas_Ornamentales;[u'se cultiva y se comercializa con prop\xf3sitos decorativos por sus caracter\xedsticas est\xe9ticas, como las flores, hojas, perfume, la peculiaridad de su follaje, frutos o tallos en jardines y dise\xf1os paisaj\xedsticos, como planta de interior o para flor cortada']
+531841887;José;Bustillos;02/08/18;17:25:32;Como se clasifican
+531841887;José;Bustillos;02/08/18;17:31:23;Plantas_Ornamentales;[u'se cultiva y se comercializa con prop\xf3sitos decorativos por sus caracter\xedsticas est\xe9ticas, como las flores, hojas, perfume, la peculiaridad de su follaje, frutos o tallos en jardines y dise\xf1os paisaj\xedsticos, como planta de interior o para flor cortada']
+531841887;José;Bustillos;02/08/18;17:31:31;Como se clasifican
+531841887;José;Bustillos;02/08/18;17:32:56;Plantas_Ornamentales;[u'se cultiva y se comercializa con prop\xf3sitos decorativos por sus caracter\xedsticas est\xe9ticas, como las flores, hojas, perfume, la peculiaridad de su follaje, frutos o tallos en jardines y dise\xf1os paisaj\xedsticos, como planta de interior o para flor cortada']
+531841887;José;Bustillos;02/08/18;17:33:06;como se clasifican
+531841887;José;Bustillos;02/08/18;17:33:24;Clasificación
+531841887;José;Bustillos;02/08/18;17:33:41;Plantas_Ornamentales;[u'se cultiva y se comercializa con prop\xf3sitos decorativos por sus caracter\xedsticas est\xe9ticas, como las flores, hojas, perfume, la peculiaridad de su follaje, frutos o tallos en jardines y dise\xf1os paisaj\xedsticos, como planta de interior o para flor cortada']
+531841887;José;Bustillos;02/08/18;17:33:49;Clasificación
+531841887;José;Bustillos;02/08/18;17:35:36;Árboles;[u'Un \xe1rbol es una planta, de tallo le\xf1oso, que se ramifica a cierta altura del suelo']
+531841887;José;Bustillos;02/08/18;17:35:46;Clasificación
+531841887;José;Bustillos;02/08/18;17:36:50;Árboles;[u'Un \xe1rbol es una planta, de tallo le\xf1oso, que se ramifica a cierta altura del suelo']
+531841887;José;Bustillos;02/08/18;17:36:58;Clasificación
+531841887;José;Bustillos;02/08/18;17:43:45;Árboles;[u'Un \xe1rbol es una planta, de tallo le\xf1oso, que se ramifica a cierta altura del suelo']
+531841887;José;Bustillos;02/08/18;17:43:53;Clasificación;[u'Un \xe1rbol es una planta, de tallo le\xf1oso, que se ramifica a cierta altura del suelo']
+531841887;José;Bustillos;02/08/18;17:44:26;Dame la clasificación;[u'Un \xe1rbol es una planta, de tallo le\xf1oso, que se ramifica a cierta altura del suelo']
+531841887;José;Bustillos;02/08/18;17:44:47;Clasificación árboles
+531841887;José;Bustillos;02/08/18;17:44:58;Clasificación árbol;[u'Un \xe1rbol es una planta, de tallo le\xf1oso, que se ramifica a cierta altura del suelo']
+531841887;José;Bustillos;02/08/18;17:45:38;Dame la clasificación de árboles
+531841887;José;Bustillos;02/08/18;17:45:51;Dame la clasificación de árbol
+531841887;José;Bustillos;02/08/18;17:46:10;Árboles;[u'Un \xe1rbol es una planta, de tallo le\xf1oso, que se ramifica a cierta altura del suelo']
+531841887;José;Bustillos;02/08/18;17:46:20;Dame la clasificación;[u'Un \xe1rbol es una planta, de tallo le\xf1oso, que se ramifica a cierta altura del suelo']
+531841887;José;Bustillos;02/08/18;17:46:47;Clasificación;[u'Un \xe1rbol es una planta, de tallo le\xf1oso, que se ramifica a cierta altura del suelo']
+531841887;José;Bustillos;02/08/18;17:47:07;Imagen;True
+531841887;José;Bustillos;02/08/18;17:47:20;Clasificación;[u'Un \xe1rbol es una planta, de tallo le\xf1oso, que se ramifica a cierta altura del suelo']
+531841887;José;Bustillos;02/08/18;17:48:24;Traduce;yura
+531841887;José;Bustillos;02/08/18;17:49:36;Cuales son los tipos;Por el momento conosco 5 plantas:
+ Abies_religios, Chamaecyparis_Pisifer, Citrus_Medic, Delonix_Regi  y Ligustrum_Lucidu
+531841887;José;Bustillos;02/08/18;17:56:34;Árboles;[u'Un \xe1rbol es una planta, de tallo le\xf1oso, que se ramifica a cierta altura del suelo']
+531841887;José;Bustillos;02/08/18;17:57:11;Traduce;yura
+531841887;José;Bustillos;02/08/18;17:57:39;Como se dice en quichua
+531841887;José;Bustillos;02/08/18;17:57:59;Como se dice en quichua
+531841887;José;Bustillos;02/08/18;18:00:01;Árboles;Por el momento conosco 5 plantas:
+ Abies_religios, Chamaecyparis_Pisifer, Citrus_Medic, Delonix_Regi  y Ligustrum_Lucidu
+531841887;José;Bustillos;02/08/18;18:00:06;Traduce;yura
+531841887;José;Bustillos;02/08/18;18:00:21;Como se dice un quichua
+531841887;José;Bustillos;02/08/18;18:01:29;Como se dice un quichua
+531841887;José;Bustillos;02/08/18;18:01:52;Traduce
+531841887;José;Bustillos;02/08/18;18:01:58;Árboles;[u'Un \xe1rbol es una planta, de tallo le\xf1oso, que se ramifica a cierta altura del suelo']
+531841887;José;Bustillos;02/08/18;18:02:03;Traduce
+531841887;José;Bustillos;02/08/18;18:02:26;Árboles;[u'Un \xe1rbol es una planta, de tallo le\xf1oso, que se ramifica a cierta altura del suelo']
+531841887;José;Bustillos;02/08/18;18:02:30;Traduce
+531841887;José;Bustillos;02/08/18;18:02:52;Árboles;[u'Un \xe1rbol es una planta, de tallo le\xf1oso, que se ramifica a cierta altura del suelo']
+531841887;José;Bustillos;02/08/18;18:02:59;Clasificación
+531841887;José;Bustillos;02/08/18;18:05:05;Árboles;[u'Un \xe1rbol es una planta, de tallo le\xf1oso, que se ramifica a cierta altura del suelo']
+531841887;José;Bustillos;02/08/18;18:05:09;Traduce
+531841887;José;Bustillos;02/08/18;18:05:25;Árboles;[u'Un \xe1rbol es una planta, de tallo le\xf1oso, que se ramifica a cierta altura del suelo']
+531841887;José;Bustillos;02/08/18;18:05:31;Traduce;yura
+531841887;José;Bustillos;02/08/18;18:05:36;Clasificación;[u'Un \xe1rbol es una planta, de tallo le\xf1oso, que se ramifica a cierta altura del suelo']
+531841887;José;Bustillos;02/08/18;18:05:41;Clasificación;[u'Un \xe1rbol es una planta, de tallo le\xf1oso, que se ramifica a cierta altura del suelo']
+531841887;José;Bustillos;02/08/18;18:05:46;Árboles;[u'Un \xe1rbol es una planta, de tallo le\xf1oso, que se ramifica a cierta altura del suelo']
+531841887;José;Bustillos;02/08/18;18:06:41;Imagen;True
+531841887;José;Bustillos;02/08/18;18:13:06;Tienes imágenes
+531841887;José;Bustillos;02/08/18;18:14:34;Indícame una imagen
+531841887;José;Bustillos;02/08/18;18:15:58;Traduce;yura
+531841887;José;Bustillos;02/08/18;18:16:07;Tradúceme
+531841887;José;Bustillos;02/08/18;18:16:28;Tradúceme
+531841887;José;Bustillos;02/08/18;18:17:23;Tradúceme
+531841887;José;Bustillos;02/08/18;18:19:53;Tradúceme
+531841887;José;Bustillos;02/08/18;18:19:53;Puedes traducirlo
+531841887;José;Bustillos;02/08/18;18:20:05;Tradúceme
+531841887;José;Bustillos;02/08/18;18:20:16;Tradúceme
+531841887;José;Bustillos;02/08/18;18:20:16;Puedes traducirlo
+531841887;José;Bustillos;02/08/18;18:23:28;Traduce
+531841887;José;Bustillos;02/08/18;18:25:27;Árboles;[u'Un \xe1rbol es una planta, de tallo le\xf1oso, que se ramifica a cierta altura del suelo']
+531841887;José;Bustillos;02/08/18;18:25:33;Traduce;yura
+531841887;José;Bustillos;02/08/18;18:25:45;Imagen;True
+531841887;José;Bustillos;02/08/18;18:25:56;Acuáticas;[u'son plantas adaptadas a los medios muy h\xfamedos o acu\xe1ticos tales como lagos, estanques, charcos, estuarios, pantanos, orillas de los r\xedos, deltas o lagunas marinas']
+531841887;José;Bustillos;02/08/18;18:26:02;Imagen
+531841887;José;Bustillos;02/08/18;18:26:11;Traduce
+531841887;José;Bustillos;02/08/18;18:26:39;Imagen
+531841887;José;Bustillos;02/08/18;18:26:45;Árboles;[u'Un \xe1rbol es una planta, de tallo le\xf1oso, que se ramifica a cierta altura del suelo']
+531841887;José;Bustillos;02/08/18;18:26:49;Imagen;True
+531841887;José;Bustillos;02/08/18;18:26:53;Tipos;Por el momento conosco 5 plantas:
+ Abies_religios, Chamaecyparis_Pisifer, Citrus_Medic, Delonix_Regi  y Ligustrum_Lucidu
+531841887;José;Bustillos;02/08/18;18:27:13;Abies_relugiosa
+531841887;José;Bustillos;02/08/18;18:27:34;Hiedra;[u'Un \xe1rbol es una planta, de tallo le\xf1oso, que se ramifica a cierta altura del suelo']
+531841887;José;Bustillos;02/08/18;18:27:46;Trepadoras;[u'Un \xe1rbol es una planta, de tallo le\xf1oso, que se ramifica a cierta altura del suelo']
+531841887;José;Bustillos;02/08/18;18:28:27;Plantas_Ornamentales;[u'se cultiva y se comercializa con prop\xf3sitos decorativos por sus caracter\xedsticas est\xe9ticas, como las flores, hojas, perfume, la peculiaridad de su follaje, frutos o tallos en jardines y dise\xf1os paisaj\xedsticos, como planta de interior o para flor cortada']
+531841887;José;Bustillos;02/08/18;18:28:38;Imagen
+531841887;José;Bustillos;02/08/18;18:28:41;Tipos;Por el momento conosco 5 plantas:
+ Acuaticas, Arboles, Palmeras, Trepadoras  y Tuberosas
+531841887;José;Bustillos;02/08/18;18:28:48;Palmeras;Por el momento conosco 3 plantas:
+ Caryota_Mitis, Chamaecyparis_Pisifer  y Chamaedorea_Elegans
+531841887;José;Bustillos;02/08/18;18:29:08;Definición
+531841887;José;Bustillos;02/08/18;18:29:13;Palmeras;Por el momento conosco 3 plantas:
+ Caryota_Mitis, Chamaecyparis_Pisifer  y Chamaedorea_Elegans
+531841887;José;Bustillos;02/08/18;18:29:50;Definición
+531841887;José;Bustillos;02/08/18;18:30:01;Definición de palmeras;Por el momento conosco 3 plantas:
+ Caryota_Mitis, Chamaecyparis_Pisifer  y Chamaedorea_Elegans
+531841887;José;Bustillos;02/08/18;18:30:10;Imagen
+531841887;José;Bustillos;02/08/18;18:30:16;Palmeras;Por el momento conosco 3 plantas:
+ Caryota_Mitis, Chamaecyparis_Pisifer  y Chamaedorea_Elegans
+531841887;José;Bustillos;02/08/18;18:30:24;Palmeras;Por el momento conosco 3 plantas:
+ Caryota_Mitis, Chamaecyparis_Pisifer  y Chamaedorea_Elegans
+531841887;José;Bustillos;02/08/18;18:30:41;Clasificación;Por el momento conosco 3 plantas:
+ Caryota_Mitis, Chamaecyparis_Pisifer  y Chamaedorea_Elegans
+531841887;José;Bustillos;02/08/18;18:30:51;Árboles;[u'Un \xe1rbol es una planta, de tallo le\xf1oso, que se ramifica a cierta altura del suelo']
+531841887;José;Bustillos;02/08/18;18:30:55;Definición
+531841887;José;Bustillos;02/08/18;18:31:02;Imagen;True
+531841887;José;Bustillos;02/08/18;18:31:10;Clasificación;[u'Un \xe1rbol es una planta, de tallo le\xf1oso, que se ramifica a cierta altura del suelo']
+531841887;José;Bustillos;02/08/18;18:31:14;Tipos;Por el momento conosco 5 plantas:
+ Abies_religios, Chamaecyparis_Pisifer, Citrus_Medic, Delonix_Regi  y Ligustrum_Lucidu
+531841887;José;Bustillos;02/08/18;18:31:59;Plantas_ornamentales;[u'se cultiva y se comercializa con prop\xf3sitos decorativos por sus caracter\xedsticas est\xe9ticas, como las flores, hojas, perfume, la peculiaridad de su follaje, frutos o tallos en jardines y dise\xf1os paisaj\xedsticos, como planta de interior o para flor cortada']
+531841887;José;Bustillos;02/08/18;18:32:11;Sabes su clasificación;[u'se cultiva y se comercializa con prop\xf3sitos decorativos por sus caracter\xedsticas est\xe9ticas, como las flores, hojas, perfume, la peculiaridad de su follaje, frutos o tallos en jardines y dise\xf1os paisaj\xedsticos, como planta de interior o para flor cortada']
+531841887;José;Bustillos;02/08/18;18:32:19;Clasificación;[u'se cultiva y se comercializa con prop\xf3sitos decorativos por sus caracter\xedsticas est\xe9ticas, como las flores, hojas, perfume, la peculiaridad de su follaje, frutos o tallos en jardines y dise\xf1os paisaj\xedsticos, como planta de interior o para flor cortada']
+531841887;José;Bustillos;02/08/18;18:32:33;Clasificación;[u'se cultiva y se comercializa con prop\xf3sitos decorativos por sus caracter\xedsticas est\xe9ticas, como las flores, hojas, perfume, la peculiaridad de su follaje, frutos o tallos en jardines y dise\xf1os paisaj\xedsticos, como planta de interior o para flor cortada']
+531841887;José;Bustillos;02/08/18;18:33:02;Como se clasifican
+531841887;José;Bustillos;02/08/18;18:33:10;Tipos;Por el momento conosco 5 plantas:
+ Acuaticas, Arboles, Palmeras, Trepadoras  y Tuberosas
+531841887;José;Bustillos;02/08/18;18:33:21;Acuáticas;[u'son plantas adaptadas a los medios muy h\xfamedos o acu\xe1ticos tales como lagos, estanques, charcos, estuarios, pantanos, orillas de los r\xedos, deltas o lagunas marinas']
+531841887;José;Bustillos;02/08/18;18:33:25;Tipos
+531841887;José;Bustillos;02/08/18;18:34:55;Tipos de acuáticas
+531841887;José;Bustillos;02/08/18;18:35:15;Acuáticas;[u'son plantas adaptadas a los medios muy h\xfamedos o acu\xe1ticos tales como lagos, estanques, charcos, estuarios, pantanos, orillas de los r\xedos, deltas o lagunas marinas']
+531841887;José;Bustillos;02/08/18;18:35:21;Tipos
+531841887;José;Bustillos;02/08/18;18:35:31;Clasificación;[u'son plantas adaptadas a los medios muy h\xfamedos o acu\xe1ticos tales como lagos, estanques, charcos, estuarios, pantanos, orillas de los r\xedos, deltas o lagunas marinas']
+531841887;José;Bustillos;02/08/18;18:35:48;Imagen
+531841887;José;Bustillos;02/08/18;18:36:11;Imagen de acuáticas
+531841887;José;Bustillos;02/08/18;18:36:29;Sabes la imagen de
+531841887;José;Bustillos;02/08/18;18:36:53;Árboles;[u'Un \xe1rbol es una planta, de tallo le\xf1oso, que se ramifica a cierta altura del suelo']
+531841887;José;Bustillos;02/08/18;18:36:57;Tipos;Por el momento conosco 5 plantas:
+ Abies_religios, Chamaecyparis_Pisifer, Citrus_Medic, Delonix_Regi  y Ligustrum_Lucidu
+531841887;José;Bustillos;02/08/18;18:37:08;Clasificación;[u'Un \xe1rbol es una planta, de tallo le\xf1oso, que se ramifica a cierta altura del suelo']
+531841887;José;Bustillos;02/08/18;18:37:25;Tienes imagen;True
+531841887;José;Bustillos;02/08/18;18:37:38;Define árboles;[u'Un \xe1rbol es una planta, de tallo le\xf1oso, que se ramifica a cierta altura del suelo']
+531841887;José;Bustillos;02/08/18;18:37:45;Traduce;yura

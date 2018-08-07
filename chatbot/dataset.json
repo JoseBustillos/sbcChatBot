@@ -1,27 +1,27 @@
 {
   "entities": {
     "definicion": {
-      "automatically_extensible": true, 
+      "automatically_extensible": false,
       "data": [], 
-      "use_synonyms": true
+      "use_synonyms": false
     }, 
     "espaniol": {
-      "automatically_extensible": true, 
+      "automatically_extensible": false,
       "data": [], 
-      "use_synonyms": true
+      "use_synonyms": false
     }, 
     "grupo": {
-      "automatically_extensible": true, 
+      "automatically_extensible": false,
       "data": [], 
-      "use_synonyms": true
+      "use_synonyms": false
     }, 
     "imagen": {
-      "automatically_extensible": true, 
+      "automatically_extensible": false,
       "data": [], 
-      "use_synonyms": true
+      "use_synonyms": false
     }, 
     "plantas": {
-      "automatically_extensible": true, 
+      "automatically_extensible": true,
       "data": [
         {
           "synonyms": [
@@ -204,10 +204,7 @@
         }, 
         {
           "synonyms": [
-            " plantas", 
-            " planta", 
-            " Planta", 
-            " plantas ornamentales"
+            " \"plantas ornamentales\""
           ], 
           "value": "Plantas_Ornamentales"
         }, 
@@ -250,6 +247,15 @@
               "entity": "definicion", 
               "slot_name": "definicion", 
               "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Arbol"
             }
           ]
         }, 
@@ -357,6 +363,507 @@
               "text": "Plantas_Ornamentales"
             }
           ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfCual es la descripci\u00f3n de "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfCual es la descripci\u00f3n de "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfCual es la descripci\u00f3n de un "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfDame la descripci\u00f3n de "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfDame la descripci\u00f3n de un "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfCual seria la descripci\u00f3n de "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfCual seria la descripci\u00f3n de un "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bf"
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": " tiene como descripci\u00f3n?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bf"
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": " y su descripci\u00f3n?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfMu\u00e9strame la descripci\u00f3n de "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfMu\u00e9strame la descripci\u00f3n de un "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfDime la descripci\u00f3n de un "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfDime la descripci\u00f3n de "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfQu\u00e9 descripci\u00f3n tiene un "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfQu\u00e9 descripci\u00f3n tiene "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfLa descripci\u00f3n de "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfLa descripci\u00f3n de un "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfDescripci\u00f3n de "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfDescripci\u00f3n de un "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Cual es la descripci\u00f3n de "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Cual es la descripci\u00f3n de un "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Dame la descripci\u00f3n de "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Dame la descripci\u00f3n de un "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Cual seria la descripci\u00f3n de "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Cual seria la descripci\u00f3n de un "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": " tiene como descripci\u00f3n"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": " y su descripci\u00f3n"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Mu\u00e9strame la descripci\u00f3n de "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Mu\u00e9strame la descripci\u00f3n de un "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Dime la descripci\u00f3n de un "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Dime la descripci\u00f3n de "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Qu\u00e9 descripci\u00f3n tiene un "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Qu\u00e9 descripci\u00f3n tiene "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "La descripci\u00f3n de "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "La descripci\u00f3n de un "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Descripci\u00f3n de "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Descripci\u00f3n de un "
+            }, 
+            {
+              "entity": "definicion", 
+              "slot_name": "definicion", 
+              "text": "Plantas_Ornamentales"
+            }
+          ]
         }
       ]
     }, 
@@ -428,6 +935,42 @@
             }, 
             {
               "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "dame la clasificaci\u00f3n de "
+            }, 
+            {
+              "entity": "grupo", 
+              "slot_name": "grupo", 
+              "text": "Acuaticas"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "como se clasifican "
+            }, 
+            {
+              "entity": "grupo", 
+              "slot_name": "grupo", 
+              "text": "Plantas_Ornamentales"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Clasificaci\u00f3n "
+            }, 
+            {
+              "entity": "grupo", 
+              "slot_name": "grupo", 
+              "text": "Plantas_Ornamentales"
             }
           ]
         }
@@ -546,6 +1089,528 @@
               "entity": "imagen", 
               "slot_name": "imagen", 
               "text": "Caladium_Bicolor"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfCual es la imagen de "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfCual es la imagen de un "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfDame la imagen de "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfDame la imagen de un "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfCual seria la imagen de "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfCual seria la imagen de un "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bf"
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": " tiene como imagen?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bf"
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": " y su imagen?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfMu\u00e9strame la imagen de "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfMu\u00e9strame la imagen de un "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfDime la imagen de un "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfDime la imagen de "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfQu\u00e9 imagen tiene un "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfQu\u00e9 imagen tiene "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfLa imagen de "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfLa imagen de un "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfImagen de "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfImagen de un "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": "?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Cual es la imagen de "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Cual es la imagen de un "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Dame la imagen de "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Dame la imagen de un "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Cual seria la imagen de "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Cual seria la imagen de un "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": " tiene como imagen"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }, 
+            {
+              "text": " y su imagen"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Mu\u00e9strame la imagen de "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Mu\u00e9strame la imagen de un "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Dime la imagen de un "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Dime la imagen de "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Qu\u00e9 imagen tiene un "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Qu\u00e9 imagen tiene "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "La imagen de "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "La imagen de un "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Imagen de "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Imagen de un "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Tienes im\u00e1genes "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Tienes im\u00e1genes "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Ind\u00edcae una imagen "
+            }, 
+            {
+              "entity": "imagen", 
+              "slot_name": "imagen", 
+              "text": "Arboles"
             }
           ]
         }
@@ -808,6 +1873,18 @@
               "text": " sabes"
             }
           ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "en que se clasifican "
+            }, 
+            {
+              "entity": "tipo", 
+              "slot_name": "tipo", 
+              "text": "Arboles"
+            }
+          ]
         }
       ]
     }, 
@@ -873,6 +1950,310 @@
               "entity": "espaniol", 
               "slot_name": "espaniol", 
               "text": "Plantas_Ornamentales"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfCual es la traducci\u00f3n de "
+            }, 
+            {
+              "entity": "espaniol", 
+              "slot_name": "espaniol", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": " en kitchwa?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfCual es la traducci\u00f3n de un "
+            }, 
+            {
+              "entity": "espaniol", 
+              "slot_name": "espaniol", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": " en kitchwa?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bf"
+            }, 
+            {
+              "entity": "espaniol", 
+              "slot_name": "espaniol", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": " en kitchwa?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfDame la traducci\u00f3n de "
+            }, 
+            {
+              "entity": "espaniol", 
+              "slot_name": "espaniol", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": " en kitchwa?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfCual seria la traducci\u00f3n de "
+            }, 
+            {
+              "entity": "espaniol", 
+              "slot_name": "espaniol", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": " en kitchwa?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bf"
+            }, 
+            {
+              "entity": "espaniol", 
+              "slot_name": "espaniol", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": " tiene como traducci\u00f3n en kitchwa?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bf"
+            }, 
+            {
+              "entity": "espaniol", 
+              "slot_name": "espaniol", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": " y su traducci\u00f3n en kitchwa?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfMu\u00e9strame la traducci\u00f3n de "
+            }, 
+            {
+              "entity": "espaniol", 
+              "slot_name": "espaniol", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": " en kitchwa?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "\u00bfMu\u00e9strame la traducci\u00f3n de un "
+            }, 
+            {
+              "entity": "espaniol", 
+              "slot_name": "espaniol", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": " en kitchwa?"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Cual es la traducci\u00f3n de "
+            }, 
+            {
+              "entity": "espaniol", 
+              "slot_name": "espaniol", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": " en kitchwa"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Cual es la traducci\u00f3n de un "
+            }, 
+            {
+              "entity": "espaniol", 
+              "slot_name": "espaniol", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": " en kitchwa"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "entity": "espaniol", 
+              "slot_name": "espaniol", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": " en kitchwa"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Dame la traducci\u00f3n de "
+            }, 
+            {
+              "entity": "espaniol", 
+              "slot_name": "espaniol", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": " en kitchwa"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Cual seria la traducci\u00f3n de "
+            }, 
+            {
+              "entity": "espaniol", 
+              "slot_name": "espaniol", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": " en kitchwa"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "entity": "espaniol", 
+              "slot_name": "espaniol", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": " tiene como traducci\u00f3n en kitchwa"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "entity": "espaniol", 
+              "slot_name": "espaniol", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": " y su traducci\u00f3n en kitchwa"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Mu\u00e9strame la traducci\u00f3n de "
+            }, 
+            {
+              "entity": "espaniol", 
+              "slot_name": "espaniol", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": " en kitchwa"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Mu\u00e9strame la traducci\u00f3n de un "
+            }, 
+            {
+              "entity": "espaniol", 
+              "slot_name": "espaniol", 
+              "text": "Plantas_Ornamentales"
+            }, 
+            {
+              "text": " en kitchwa"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Traduccion en kitchwa"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Como se dice en quichua "
+            }, 
+            {
+              "entity": "espaniol", 
+              "slot_name": "espaniol", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "traduceme "
+            }, 
+            {
+              "entity": "espaniol", 
+              "slot_name": "espaniol", 
+              "text": "Arboles"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "puedes traducirlos "
+            }, 
+            {
+              "entity": "espaniol", 
+              "slot_name": "espaniol", 
+              "text": "Arboles"
             }
           ]
         }

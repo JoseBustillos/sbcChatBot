@@ -1,4 +1,5 @@
 [definicion:definicion](Arboles)
+[definicion:definicion](Arbol)
 [definicion:definicion](Acuaticas)
 [definicion:definicion](Aro_Comun)
 [definicion:definicion](Calta_Amarilla)
@@ -8,3 +9,39 @@
 define [definicion:definicion](Arboles)
 ¿Qué son los [definicion:definicion](Arboles)?
 definición de [definicion:definicion](Plantas_Ornamentales)
+¿Cual es la descripción de [definicion:definicion](Arboles)?
+¿Cual es la descripción de un [definicion:definicion](Plantas_Ornamentales)?
+¿Dame la descripción de [definicion:definicion](Plantas_Ornamentales)?
+¿Dame la descripción de un [definicion:definicion](Plantas_Ornamentales)?
+¿Cual seria la descripción de [definicion:definicion](Plantas_Ornamentales)?
+¿Cual seria la descripción de un [definicion:definicion](Plantas_Ornamentales)?
+¿[definicion:definicion](Plantas_Ornamentales) tiene como descripción?
+¿[definicion:definicion](Plantas_Ornamentales) y su descripción?
+¿Muéstrame la descripción de [definicion:definicion](Plantas_Ornamentales)?
+¿Muéstrame la descripción de un [definicion:definicion](Plantas_Ornamentales)?
+¿Dime la descripción de un [definicion:definicion](Plantas_Ornamentales)?
+¿Dime la descripción de [definicion:definicion](Plantas_Ornamentales)?
+¿Qué descripción tiene un [definicion:definicion](Plantas_Ornamentales)?
+¿Qué descripción tiene [definicion:definicion](Plantas_Ornamentales)?
+¿La descripción de [definicion:definicion](Plantas_Ornamentales)?
+¿La descripción de un [definicion:definicion](Plantas_Ornamentales)?
+¿Descripción de [definicion:definicion](Plantas_Ornamentales)?
+¿Descripción de un [definicion:definicion](Plantas_Ornamentales)?
+Cual es la descripción de [definicion:definicion](Plantas_Ornamentales)
+Cual es la descripción de un [definicion:definicion](Plantas_Ornamentales)
+Dame la descripción de [definicion:definicion](Plantas_Ornamentales)
+Dame la descripción de un [definicion:definicion](Plantas_Ornamentales)
+Cual seria la descripción de [definicion:definicion](Plantas_Ornamentales)
+Cual seria la descripción de un [definicion:definicion](Plantas_Ornamentales)
+[definicion:definicion](Plantas_Ornamentales) tiene como descripción
+[definicion:definicion](Plantas_Ornamentales) y su descripción
+Muéstrame la descripción de [definicion:definicion](Plantas_Ornamentales)
+Muéstrame la descripción de un [definicion:definicion](Plantas_Ornamentales)
+Dime la descripción de un [definicion:definicion](Plantas_Ornamentales)
+Dime la descripción de [definicion:definicion](Plantas_Ornamentales)
+Qué descripción tiene un [definicion:definicion](Plantas_Ornamentales)
+Qué descripción tiene [definicion:definicion](Plantas_Ornamentales)
+La descripción de [definicion:definicion](Plantas_Ornamentales)
+La descripción de un [definicion:definicion](Plantas_Ornamentales)
+Descripción de [definicion:definicion](Plantas_Ornamentales)
+Descripción de un [definicion:definicion](Plantas_Ornamentales)
